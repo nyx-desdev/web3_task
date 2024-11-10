@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**
    ```bash
-   git clone <[repository-url](https://github.com/nyx-desdev/web3_task.git)>
+   git clone (https://github.com/nyx-desdev/web3_task.git)
    cd web3_task
    ```
 
