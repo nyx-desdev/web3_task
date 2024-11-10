@@ -43,6 +43,11 @@ Before you begin, ensure you have met the following requirements:
    npm start
    ```
 
+   You can run frontend tests:
+   ```bash
+   npm run test
+   ```
+
    This command will execute:
    - The backend server using Nodemon.
    - The frontend server using the development script.
