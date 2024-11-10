@@ -12,6 +12,10 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 
 1. **Clone the repository**
+
+
+
+
    ```bash
    git clone https://github.com/nyx-desdev/web3_task.git
    cd web3_task
@@ -42,5 +46,7 @@ Before you begin, ensure you have met the following requirements:
    This command will execute:
    - The backend server using Nodemon.
    - The frontend server using the development script.
+  
+https://github.com/user-attachments/assets/9d5104d7-8468-4578-871e-34b95f91e6f7
 
 
